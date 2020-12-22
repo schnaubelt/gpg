@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>gpg</name>
+  <version>0.0.0</version>
+  <description>GPG library</description>
+
+  <author email="atp@ccs.neu.edu">Andreas ten Pas</author>
+  
+  <maintainer email="atp@ccs.neu.edu">Andreas ten Pas</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+
+
+</package>
